@@ -35,7 +35,7 @@ http://127.0.0.1:8000
 <img width="1337" height="600" alt="Screenshot 2026-06-24 200159" src="https://github.com/user-attachments/assets/157e7650-d085-4be3-b1d7-7744b1927f20" />
 <img width="1344" height="598" alt="Screenshot 2026-06-24 200246" src="https://github.com/user-attachments/assets/3d3ea798-3e78-46e4-9590-816fa137d421" />
 (Add <img width="1338" height="601" alt="Screenshot 2026-06-24 200317" src="https://github.com/user-attachments/assets/fd657c89-3c16-4b56-881a-d21e6b79fd1b" />
-screenshots of your project here)
+
 
 ## Author
 Pranjal Hirlekar
